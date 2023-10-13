@@ -1,0 +1,157 @@
+{
+    "foll11":[
+     {
+      "Id": 19,
+      "Nama": "Dedy Nugroho",
+      "Email": "dedy.nugroho@email.com",
+      "Avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/20.jpg",
+      "Followes": 58,
+      "Following": 19
+     },
+     {
+      "Id": 3,
+      "Nama": "Budi Santoso",
+      "Email": "budi.santoso@email.com",
+      "Avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/4.jpg",
+      "Followes": 31,
+      "Following": 75
+     },
+     {
+      "Id": 20,
+      "Nama": "Hamid Sayidi Abdullah",
+      "Email": "hamid.sayidi@email.com",
+      "Avatar": "https:\/\/github.com\/Hamid-Sayidi\/photo\/blob\/main\/IMG_20191231_214128%5B2%5D%201.png",
+      "Followes": 27,
+      "Following": 15
+     },
+     null,
+     {
+      "Id": 5,
+      "Nama": "Agus Wijaya",
+      "Email": "agus.wijaya@email.com",
+      "Avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/6.jpg",
+      "Followes": 55,
+      "Following": 57
+     },
+     {
+      "Id": 17,
+      "Nama": "Rizki Hermawan",
+      "Email": "rizki.hermawan@email.com",
+      "Avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/18.jpg",
+      "Followes": 27,
+      "Following": 88
+     },
+     {
+      "Id": 13,
+      "Nama": "Andika Pratama",
+      "Email": "andika.pratama@email.com",
+      "Avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/14.jpg",
+      "Followes": 61,
+      "Following": 51
+     },
+     {
+      "Id": 1,
+      "Nama": "Adi Prabowo",
+      "Email": "adi.prabowo@email.com",
+      "Avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/2.jpg",
+      "Followes": 30,
+      "Following": 89
+     },
+     {
+      "Id": 16,
+      "Nama": "Anisa Puspita",
+      "Email": "anisa.puspita@email.com",
+      "Avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/17.jpg",
+      "Followes": 83,
+      "Following": 13
+     },
+     {
+      "Id": 12,
+      "Nama": "Maya Dewi",
+      "Email": "maya.dewi@email.com",
+      "Avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/13.jpg",
+      "Followes": 77,
+      "Following": 73
+     },
+     {
+      "Id": 14,
+      "Nama": "Ratna Susanti",
+      "Email": "ratna.susanti@email.com",
+      "Avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/15.jpg",
+      "Followes": 16,
+      "Following": 96
+     },
+     {
+      "Id": 8,
+      "Nama": "Putri Indah",
+      "Email": "putri.indah@email.com",
+      "Avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/9.jpg",
+      "Followes": 99,
+      "Following": 62
+     },
+     {
+      "Id": 9,
+      "Nama": "Andre Surya",
+      "Email": "andre.surya@email.com",
+      "Avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/10.jpg",
+      "Followes": 41,
+      "Following": 84
+     },
+     {
+      "Id": 10,
+      "Nama": "Nisa Rahayu",
+      "Email": "nisa.rahayu@email.com",
+      "Avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/11.jpg",
+      "Followes": 39,
+      "Following": 28
+     },
+     {
+      "Id": 6,
+      "Nama": "Rina Sari",
+      "Email": "rina.sari@email.com",
+      "Avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/7.jpg",
+      "Followes": 14,
+      "Following": 46
+     },
+     {
+      "Id": 7,
+      "Nama": "Faisal Malik",
+      "Email": "faisal.malik@email.com",
+      "Avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/8.jpg",
+      "Followes": 72,
+      "Following": 19
+     },
+     {
+      "Id": 2,
+      "Nama": "Siti Aisyah",
+      "Email": "siti.aisyah@email.com",
+      "Avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/3.jpg",
+      "Followes": 47,
+      "Following": 41
+     },
+     {
+      "Id": 15,
+      "Nama": "Arif Setiawan",
+      "Email": "arif.setiawan@email.com",
+      "Avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/16.jpg",
+      "Followes": 48,
+      "Following": 67
+     },
+     {
+      "Id": 4,
+      "Nama": "Dian Putri",
+      "Email": "dian.putri@email.com",
+      "Avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/5.jpg",
+      "Followes": 66,
+      "Following": 32
+     },
+     {
+      "Id": 18,
+      "Nama": "Citra Permata",
+      "Email": "citra.permata@email.com",
+      "Avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/19.jpg",
+      "Followes": 41,
+      "Following": 35
+     }
+    ]
+}
