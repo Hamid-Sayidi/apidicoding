@@ -1,0 +1,204 @@
+{
+"data_User":[
+        {
+         "Id": 1,
+         "Nama": "Adi Prabowo",
+         "Email": "adi.prabowo@email.com",
+         "Avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/2.jpg",
+         "Followes": 30,
+         "Following": 89,
+         "url_followers": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Followers\/followers_1.json",
+         "url_following": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Following\/following_1.json"
+        },
+        {
+         "Id": 2,
+         "Nama": "Siti Aisyah",
+         "Email": "siti.aisyah@email.com",
+         "Avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/3.jpg",
+         "Followes": 47,
+         "Following": 41,
+         "url_followers": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Followers\/followers_2.json",
+         "url_following": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Following\/following_2.json"
+        },
+        {
+         "Id": 3,
+         "Nama": "Budi Santoso",
+         "Email": "budi.santoso@email.com",
+         "Avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/4.jpg",
+         "Followes": 31,
+         "Following": 75,
+         "url_followers": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Followers\/followers_3.json",
+         "url_following": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Following\/following_3.json"
+        },
+        {
+         "Id": 4,
+         "Nama": "Dian Putri",
+         "Email": "dian.putri@email.com",
+         "Avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/5.jpg",
+         "Followes": 66,
+         "Following": 32,
+         "url_followers": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Followers\/followers_4.json",
+         "url_following": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Following\/following_4.json"
+        },
+        {
+         "Id": 5,
+         "Nama": "Agus Wijaya",
+         "Email": "agus.wijaya@email.com",
+         "Avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/6.jpg",
+         "Followes": 55,
+         "Following": 57,
+         "url_followers": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Followers\/followers_5.json",
+         "url_following": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Following\/following_5.json"
+        },
+        {
+         "Id": 6,
+         "Nama": "Rina Sari",
+         "Email": "rina.sari@email.com",
+         "Avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/7.jpg",
+         "Followes": 14,
+         "Following": 46,
+         "url_followers": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Followers\/followers_6.json",
+         "url_following": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Following\/following_6.json"
+        },
+        {
+         "Id": 7,
+         "Nama": "Faisal Malik",
+         "Email": "faisal.malik@email.com",
+         "Avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/8.jpg",
+         "Followes": 72,
+         "Following": 19,
+         "url_followers": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Followers\/followers_7.json",
+         "url_following": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Following\/following_7.json"
+        },
+        {
+         "Id": 8,
+         "Nama": "Putri Indah",
+         "Email": "putri.indah@email.com",
+         "Avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/9.jpg",
+         "Followes": 99,
+         "Following": 62,
+         "url_followers": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Followers\/followers_8.json",
+         "url_following": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Following\/following_8.json"
+        },
+        {
+         "Id": 9,
+         "Nama": "Andre Surya",
+         "Email": "andre.surya@email.com",
+         "Avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/10.jpg",
+         "Followes": 41,
+         "Following": 84,
+         "url_followers": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Followers\/followers_9.json",
+         "url_following": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Following\/following_9.json"
+        },
+        {
+         "Id": 10,
+         "Nama": "Nisa Rahayu",
+         "Email": "nisa.rahayu@email.com",
+         "Avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/11.jpg",
+         "Followes": 39,
+         "Following": 28,
+         "url_followers": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Followers\/followers_10.json",
+         "url_following": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Following\/following_10.json"
+        },
+        {
+         "Id": 11,
+         "Nama": "Mulyono",
+         "Email": "mulyono@email.com",
+         "Avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/12.jpg",
+         "Followes": 35,
+         "Following": 59,
+         "url_followers": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Followers\/followers_11.json",
+         "url_following": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Following\/following_11.json"
+        },
+        {
+         "Id": 12,
+         "Nama": "Maya Dewi",
+         "Email": "maya.dewi@email.com",
+         "Avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/13.jpg",
+         "Followes": 77,
+         "Following": 73,
+         "url_followers": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Followers\/followers_12.json",
+         "url_following": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Following\/following_12.json"
+        },
+        {
+         "Id": 13,
+         "Nama": "Andika Pratama",
+         "Email": "andika.pratama@email.com",
+         "Avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/14.jpg",
+         "Followes": 61,
+         "Following": 51,
+         "url_followers": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Followers\/followers_13.json",
+         "url_following": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Following\/following_13.json"
+        },
+        {
+         "Id": 14,
+         "Nama": "Ratna Susanti",
+         "Email": "ratna.susanti@email.com",
+         "Avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/15.jpg",
+         "Followes": 16,
+         "Following": 96,
+         "url_followers": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Followers\/followers_14.json",
+         "url_following": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Following\/following_14.json"
+        },
+        {
+         "Id": 15,
+         "Nama": "Arif Setiawan",
+         "Email": "arif.setiawan@email.com",
+         "Avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/16.jpg",
+         "Followes": 48,
+         "Following": 67,
+         "url_followers": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Followers\/followers_15.json",
+         "url_following": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Following\/following_15.json"
+        },
+        {
+         "Id": 16,
+         "Nama": "Anisa Puspita",
+         "Email": "anisa.puspita@email.com",
+         "Avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/17.jpg",
+         "Followes": 83,
+         "Following": 13,
+         "url_followers": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Followers\/followers_16.json",
+         "url_following": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Following\/following_16.json"
+        },
+        {
+         "Id": 17,
+         "Nama": "Rizki Hermawan",
+         "Email": "rizki.hermawan@email.com",
+         "Avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/18.jpg",
+         "Followes": 27,
+         "Following": 88,
+         "url_followers": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Followers\/followers_17.json",
+         "url_following": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Following\/following_17.json"
+        },
+        {
+         "Id": 18,
+         "Nama": "Citra Permata",
+         "Email": "citra.permata@email.com",
+         "Avatar": "https:\/\/randomuser.me\/api\/portraits\/women\/19.jpg",
+         "Followes": 41,
+         "Following": 35,
+         "url_followers": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Followers\/followers_18.json",
+         "url_following": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Following\/following_18.json"
+        },
+        {
+         "Id": 19,
+         "Nama": "Dedy Nugroho",
+         "Email": "dedy.nugroho@email.com",
+         "Avatar": "https:\/\/randomuser.me\/api\/portraits\/men\/20.jpg",
+         "Followes": 58,
+         "Following": 19,
+         "url_followers": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Followers\/followers_19.json",
+         "url_following": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Following\/following_19.json"
+        },
+        {
+         "Id": 20,
+         "Nama": "Hamid Sayidi Abdullah",
+         "Email": "hamid.sayidi@email.com",
+         "Avatar": "https:\/\/hamid-sayidi.github.io\/photo\/IMG_20191231_214128[2]%201.png",
+         "Followes": 27,
+         "Following": 15,
+         "url_followers": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Followers\/followers_20.json",
+         "url_following": "https:\/\/hamid-sayidi.github.io\/apidicoding\/Following\/following_20.json"
+        }
+   ]
+}
